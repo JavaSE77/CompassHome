@@ -5,3 +5,6 @@ author: JavaSE
 version: 1.0.0
 loadbefore: [Essentials, WorldEdit, AsyncWorldEdit]
 commands:
+permissions:
+  compasshome.target:
+    default: true

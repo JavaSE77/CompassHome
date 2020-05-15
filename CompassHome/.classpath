@@ -6,6 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Minecraft Server/Paper-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Minecraft Server/Paper-latest.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Minecraft Server/bukkit-1.15.2-R0.1-20200509.055027-104-javadoc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

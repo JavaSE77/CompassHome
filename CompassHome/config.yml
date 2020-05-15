@@ -1,3 +1,5 @@
+#For the love of god do not set per world permissions for this plugin. Just use the damn enabledWorlds option
 enabledWorlds:
   - world
 teleportDelay: 0
+cancelTeleportOnMove: true
