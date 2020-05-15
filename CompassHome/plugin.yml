@@ -1,0 +1,7 @@
+main: club.hardcoreminecraft.javase.compasshome.main
+name: CompassHome
+description: Use a compass to teleport to your home
+author: JavaSE
+version: 1.0.0
+loadbefore: [Essentials, WorldEdit, AsyncWorldEdit]
+commands:
